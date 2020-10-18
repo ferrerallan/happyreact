@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.1508b1b4.chunk.css",
-    "main.js": "/static/js/main.c9e13886.chunk.js",
-    "main.js.map": "/static/js/main.c9e13886.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af29317b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af29317b.js.map",
-    "static/css/2.bcddf60d.chunk.css": "/static/css/2.bcddf60d.chunk.css",
-    "static/js/2.4e67d139.chunk.js": "/static/js/2.4e67d139.chunk.js",
-    "static/js/2.4e67d139.chunk.js.map": "/static/js/2.4e67d139.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9d95a16c05078801e4fd03e6c59f8807.js": "/precache-manifest.9d95a16c05078801e4fd03e6c59f8807.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.bcddf60d.chunk.css.map": "/static/css/2.bcddf60d.chunk.css.map",
-    "static/css/main.1508b1b4.chunk.css.map": "/static/css/main.1508b1b4.chunk.css.map",
-    "static/js/2.4e67d139.chunk.js.LICENSE.txt": "/static/js/2.4e67d139.chunk.js.LICENSE.txt",
-    "static/media/landing.css": "/static/media/landing.91c8d1af.svg",
-    "static/media/logo.svg": "/static/media/logo.1653c647.svg",
-    "static/media/map-marker.svg": "/static/media/map-marker.658b8302.svg"
+    "main.css": "/happyreact/static/css/main.dddf6fde.chunk.css",
+    "main.js": "/happyreact/static/js/main.c9e13886.chunk.js",
+    "main.js.map": "/happyreact/static/js/main.c9e13886.chunk.js.map",
+    "runtime-main.js": "/happyreact/static/js/runtime-main.65414943.js",
+    "runtime-main.js.map": "/happyreact/static/js/runtime-main.65414943.js.map",
+    "static/css/2.bcddf60d.chunk.css": "/happyreact/static/css/2.bcddf60d.chunk.css",
+    "static/js/2.4e67d139.chunk.js": "/happyreact/static/js/2.4e67d139.chunk.js",
+    "static/js/2.4e67d139.chunk.js.map": "/happyreact/static/js/2.4e67d139.chunk.js.map",
+    "index.html": "/happyreact/index.html",
+    "precache-manifest.bca9933e83054cdcc49ce8de3d1402fb.js": "/happyreact/precache-manifest.bca9933e83054cdcc49ce8de3d1402fb.js",
+    "service-worker.js": "/happyreact/service-worker.js",
+    "static/css/2.bcddf60d.chunk.css.map": "/happyreact/static/css/2.bcddf60d.chunk.css.map",
+    "static/css/main.dddf6fde.chunk.css.map": "/happyreact/static/css/main.dddf6fde.chunk.css.map",
+    "static/js/2.4e67d139.chunk.js.LICENSE.txt": "/happyreact/static/js/2.4e67d139.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/happyreact/static/media/landing.91c8d1af.svg",
+    "static/media/logo.svg": "/happyreact/static/media/logo.1653c647.svg",
+    "static/media/map-marker.svg": "/happyreact/static/media/map-marker.658b8302.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af29317b.js",
+    "static/js/runtime-main.65414943.js",
     "static/css/2.bcddf60d.chunk.css",
     "static/js/2.4e67d139.chunk.js",
-    "static/css/main.1508b1b4.chunk.css",
+    "static/css/main.dddf6fde.chunk.css",
     "static/js/main.c9e13886.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c607aa6da71acb6369096baccea869f",
+    "revision": "ce3b0350dc3b1b51dc22a860f5c2fca6",
     "url": "/happyreact/index.html"
   },
   {
-    "revision": "ae04ecf772e5384e0637",
+    "revision": "3a8cf8c235e92b826a0c",
     "url": "/happyreact/static/css/2.bcddf60d.chunk.css"
   },
   {
-    "revision": "bc0605c49072a8b59f77",
-    "url": "/happyreact/static/css/main.5b718948.chunk.css"
+    "revision": "166f5f68ad70a555f7ae",
+    "url": "/happyreact/static/css/main.dddf6fde.chunk.css"
   },
   {
-    "revision": "ae04ecf772e5384e0637",
-    "url": "/happyreact/static/js/2.081390aa.chunk.js"
+    "revision": "3a8cf8c235e92b826a0c",
+    "url": "/happyreact/static/js/2.4e67d139.chunk.js"
   },
   {
     "revision": "0580f66cff7a7b2e7b5c118fd842bcfd",
-    "url": "/happyreact/static/js/2.081390aa.chunk.js.LICENSE.txt"
+    "url": "/happyreact/static/js/2.4e67d139.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc0605c49072a8b59f77",
-    "url": "/happyreact/static/js/main.4775a54f.chunk.js"
+    "revision": "166f5f68ad70a555f7ae",
+    "url": "/happyreact/static/js/main.c9e13886.chunk.js"
   },
   {
     "revision": "905536121dd0d7e80d00",
