@@ -54,7 +54,7 @@ export default function Orphanage() {
 
       <main>
         <div className="orphanage-details">
-          <img src={orphanage.images[activeImageIndex].url.replace('localhost:3333','ambackend-com-br.umbler.net')} alt={orphanage.name} />
+          <img src={orphanage.images[activeImageIndex].url} alt={orphanage.name} />
 
           <div className="images">
             {orphanage.images.map((imagem,index)=>{
@@ -69,7 +69,7 @@ export default function Orphanage() {
                         }
                       }      
                 >
-                  <img src={imagem.url.replace('localhost:3333','ambackend-com-br.umbler.net')} alt={orphanage.name} />
+                  <img src={imagem.url} alt={orphanage.name} />
                 </button>
               )
             })}

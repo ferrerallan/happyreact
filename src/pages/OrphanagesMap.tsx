@@ -30,7 +30,8 @@ function OrphanagesMap(){
         })
     }, []);
 
-
+    if (!orphanages)
+        return (<div>carregando...</div>)
     return (
         <div id="page-map">
             <aside>

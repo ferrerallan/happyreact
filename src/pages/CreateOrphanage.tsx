@@ -69,6 +69,11 @@ export default function CreateOrphanage() {
     data.append('opening_hours', opening_hours)
     data.append('open_on_weekends', String(open_on_weekends))
 
+    if ((latitude===0) || ( longitude===0)){
+      alert('informe a posição no mapa')
+      return;
+    }
+
     images.forEach(image => {
       data.append('images', image)
     })
